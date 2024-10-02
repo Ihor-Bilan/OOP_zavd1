@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\OOP_zavd1\bin\Debug\net8.0\OOP_zavd1.exe
+C:\Users\Comp\source\repos\OOP_zavd1\bin\Debug\net8.0\OOP_zavd1.deps.json
+C:\Users\Comp\source\repos\OOP_zavd1\bin\Debug\net8.0\OOP_zavd1.runtimeconfig.json
+C:\Users\Comp\source\repos\OOP_zavd1\bin\Debug\net8.0\OOP_zavd1.dll
+C:\Users\Comp\source\repos\OOP_zavd1\bin\Debug\net8.0\OOP_zavd1.pdb
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.AssemblyInfo.cs
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.dll
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\refint\OOP_zavd1.dll
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.pdb
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\OOP_zavd1.genruntimeconfig.cache
+C:\Users\Comp\source\repos\OOP_zavd1\obj\Debug\net8.0\ref\OOP_zavd1.dll
